@@ -1,2 +1,0 @@
-# myschool
-myschool file
