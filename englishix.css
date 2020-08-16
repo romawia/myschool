@@ -5,42 +5,56 @@ body, html{
     background-color: rgb(19, 121, 112);
 }
 .maindiv{
+    text-align: center;
     display: flex;
-    float: inline-start;
+    float: left;
+    
     
 }
 .love{
-height: 420px;
+text-transform: uppercase;
+text-decoration: underline;
+height: 50%;
 background-color: silver;
 text-align: center;
 line-break: auto;
 border:2px solid slateblue;
-width: 500px;
+width: 400px;
 }
 
 .wedding{
+    text-transform: uppercase;
+    text-decoration: underline;
+    height: 50%;
     text-align: center;
     background-color: silver;
     border:2px solid slateblue;
-    width: 500px;
+    width: 400px;
 }
 
 .family{
+    text-transform: uppercase;
+    text-decoration: underline;
     background-color: silver;
     border:2px solid slateblue;
-    width: 500px;
+    width: 400px;
 }
 .endlife{
+    text-transform: uppercase;
+text-decoration: underline;
+    height: 50%;
     background-color: silver;
     border:2px solid slateblue;
-    width: 500px;
+    width: 400px;
 }
 .reunited{
-    padding-top: 40px;
+    text-transform: uppercase;
+text-decoration: underline;
+    padding:0px;
     text-align: center;
     direction: inherit;
     background-color: silver;
     border:2px solid slateblue;
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 25%;
 }
