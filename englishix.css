@@ -1,181 +1,46 @@
-.chapter{
-    text-align: center;
+body, html{
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(19, 121, 112);
 }
-img{
-    display:block;
-    margin-top: 0;
-    margin-right: auto;
-    margin-bottom: 0;
-    margin-left: auto;
+.maindiv{
+    display: flex;
+    float: inline-start;
+    
+    border: 2px solid rgb(183, 231, 119);
 }
-.whole{
-    font-size:9px;
-    border:solid indigo;
-}
-.tutor{
-    text-align: center;
-}
-.sec{
+.love{
+background-color: silver;
 text-align: center;
-}
-.secteach{
-    border: solid red 3px;
-    border-style: dotted;
-    font-size: 20px;
-    background-color: white;
-}
-.secarea{
-    border: solid blue 12px;
-    background-color: burlywood;
-    margin-top: 10px;
-    padding-top: 0px;
-}
-.current{
-    text-align: center;}
-h5{
-    text-transform: uppercase;
-    font-family: Arial, Helvetica, sans-serif;
-    color: red;
-    text-align: center;
-}
-.learn{
-    text-align: center;
-}
-.maincontent{
-    background-color: rgb(231, 40, 40);
-    border-radius: 10px;
-    padding-bottom: 0px;
-}
-.para1{
-    background-color: white;
-    margin-bottom: 10px;
-    border-radius: 10px;
-    border: 1px solid;
-    border-style: groove;
-    border-bottom: 3px;
-    background-color: yellowgreen;
+line-break: auto;
+border:2px solid slateblue;
+width: 500px;
 }
 
-.p1{
-    border: solid;
-    border-bottom: unset;
-    border-radius: 10px;
-    background-color: yellowgreen;
-    border-color: rgb(231, 238, 130);
+.wedding{
     text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-.para2{
-    background-color: white;
-    margin-bottom: 10px;
-    border-radius: 10px;
-    border: 1px solid;
-    border-style: groove;
-    background-color: yellowgreen;
-}
-.p2{
-    border: solid;
-    border-width:5px;
-    border-radius: 10px;
-    border-bottom: unset;
-    background-color: yellowgreen;
-    border-color: rgb(231, 238, 130);
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-.para3{
-    background-color: white;
-    border: 1px solid;
-    border-radius: 10px;
-    margin-bottom: 10px;
-    border-style: groove;
-    background-color: yellowgreen;
+    background-color: silver;
+    border:2px solid slateblue;
+    width: 500px;
 }
 
-.p3{
-    border: solid;
-    border-width:5px;
-    border-radius: 10px;
-    border-bottom: unset;
-    background-color: yellowgreen;
-    border-color: rgb(231, 238, 130);
+.family{
+    background-color: silver;
+    border:2px solid slateblue;
+    width: 500px;
+}
+.endlife{
+    background-color: silver;
+    border:2px solid slateblue;
+    width: 500px;
+}
+.reunited{
+    padding-top: 40px;
     text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-.para4{
-    background-color: white;
-    border: 1px solid;
-    border-radius: 10px;
-    margin-bottom: 10px;
-    border-style: groove;
-    background-color: yellowgreen;
-}
-
-.p4{
-    border: solid;
-    border-width:5px;
-    border-radius: 10px;
-    border-bottom: unset;
-    background-color: yellowgreen;
-    border-color: rgb(231, 238, 130);
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-.para5{
-    background-color: white;
-    border: 1px solid;
-    border-radius: 10px;
-    margin-bottom: 10px;
-    border-style: groove;
-    background-color: yellowgreen;
-}
-.p5{
-    border: solid;
-    border-width:5px;
-    border-radius: 10px;
-    border-bottom: unset;
-    background-color: yellowgreen;
-    border-color: rgb(231, 238, 130);
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-.para6{
-    background-color: white;
-    border: 1px solid;
-    margin-bottom: 5px;
-    border-radius: 10px;
-    border-style: groove;
-    background-color: yellowgreen;
-}
-.p6{
-    border: solid;
-    border-width:5px;
-    border-radius: 10px;
-    border-bottom: unset;
-    background-color: yellowgreen;
-    border-color: rgb(231, 238, 130);
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-.Home{
-    background-color: rgb(199, 192, 199);
-    text-align: center;
-    color: rgb(236, 149, 149);
-    text-transform: uppercase;
-    font-size: 20px;
-    margin-bottom: 30px;
-}
-.Home{
-    padding-bottom:0px;
-}
-.parimageend{
-    background-color: antiquewhite;
-   padding-top:0px;
-   border: aqua;
+    direction: inherit;
+    background-color: silver;
+    border:2px solid slateblue;
+    width: 500px;
+    height: 300px;
 }
