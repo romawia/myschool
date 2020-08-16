@@ -8,9 +8,9 @@ body, html{
     display: flex;
     float: inline-start;
     
-    border: 2px solid rgb(183, 231, 119);
 }
 .love{
+height: 420px;
 background-color: silver;
 text-align: center;
 line-break: auto;
