@@ -3,6 +3,7 @@ body, html{
     padding: 0px;
     margin: 0px;
     background-color: rgb(19, 121, 112);
+    overflow:auto;
 }
 .maindiv{
     text-align: center;
