@@ -1,6 +1,5 @@
 body, html{
     text-align: center;
-    height: 100%;
     padding: 0px;
     margin: 0px;
     background-color: rgb(19, 121, 112);
@@ -35,6 +34,7 @@ width: 400px;
 }
 
 .family{
+    text-align: center;
     text-transform: uppercase;
     text-decoration: underline;
     background-color: silver;
@@ -42,6 +42,7 @@ width: 400px;
     width: 400px;
 }
 .endlife{
+    text-align: center;
     text-transform: uppercase;
 text-decoration: underline;
     height: 50%;
